@@ -27,7 +27,7 @@ module.exports = {
       },
     ],
     author: {
-      name: 'John Doe',
+      name: '이곳은 ',
       email: '#',
       telegram: '#',
       twitter: '#',
