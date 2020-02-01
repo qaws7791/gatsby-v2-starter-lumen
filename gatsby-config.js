@@ -14,20 +14,20 @@ module.exports = {
     disqusShortname: '',
     menu: [
       {
-        label: 'Articles',
+        label: '게시글',
         path: '/',
       },
       {
-        label: 'About me',
+        label: '나에 대해서',
         path: '/about/',
       },
       {
-        label: 'Contact me',
+        label: '나에게 연락하기',
         path: '/contact/',
       },
     ],
     author: {
-      name: '이곳은 ',
+      name: ' ',
       email: '#',
       telegram: '#',
       twitter: '#',
