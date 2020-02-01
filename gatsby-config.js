@@ -7,7 +7,7 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by John Doe',
+    title: '내 블로그',
     subtitle:
       'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     copyright: '© All rights reserved.',
@@ -27,7 +27,7 @@ module.exports = {
       },
     ],
     author: {
-      name: ' ',
+      name: '내 이름',
       email: '#',
       telegram: '#',
       twitter: '#',
