@@ -18,6 +18,10 @@ module.exports = {
         path: '/',
       },
       {
+        label: '태그',
+        path: '/tags',
+      },
+      {
         label: '나에 대해서',
         path: '/about/',
       },
