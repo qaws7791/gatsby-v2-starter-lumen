@@ -29,6 +29,14 @@ module.exports = {
         label: '나에게 연락하기',
         path: '/contact/',
       },
+      {
+        label: '사진',
+        path: '/photos/',
+      },
+      {
+        label: '카테고리',
+        path: '/categories/',
+      }
     ],
     author: {
       name: '이곳은어디인가',
