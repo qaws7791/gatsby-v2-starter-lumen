@@ -1,0 +1,15 @@
+로컬
+
+  │       git add .  // 파일 인덱싱하기
+  ∨       git commit -m "메세지 " // 커밋 
+           git push -u origin master  // 업로드
+git
+
+
+
+로컬
+
+  │	npm run develop  // http://localhost:8000/ 개발모드
+  ∨ 
+
+gatsby
