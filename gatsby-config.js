@@ -9,7 +9,7 @@ module.exports = {
     siteUrl: url,
     title: '내 블로그 ',
     subtitle:
-      '이곳은 갯츠비로 만든 블로그입니다.2334',
+      '이곳은 갯츠비로 만든 블로그입니다.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
