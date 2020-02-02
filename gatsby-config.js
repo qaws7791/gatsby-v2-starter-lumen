@@ -7,9 +7,9 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: '내 블로그',
+    title: '내 블로그 ',
     subtitle:
-      'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+      '이곳은 갯츠비로 만든 블로그입니다.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -27,7 +27,7 @@ module.exports = {
       },
     ],
     author: {
-      name: '내 이름',
+      name: '이곳은어디인가',
       email: '#',
       telegram: '#',
       twitter: '#',
