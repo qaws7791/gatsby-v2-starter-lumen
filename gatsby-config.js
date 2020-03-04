@@ -18,6 +18,10 @@ module.exports = {
         path: '/',
       },
       {
+        label: '카테고리',
+        path: '/categories/',
+      },
+      {
         label: '태그',
         path: '/tags',
       },
@@ -32,10 +36,6 @@ module.exports = {
       {
         label: '사진',
         path: '/photos/',
-      },
-      {
-        label: '카테고리',
-        path: '/categories/',
       }
     ],
     author: {
